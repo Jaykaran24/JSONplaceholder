@@ -1,7 +1,10 @@
 {
-    "todos" : {
-    "title": "Clean the bike",
-    "description": "Wipe down the chain and apply fresh degreaser.",
-    "completed": true
-}
+  "todos": [
+    {
+      "id": 1,
+      "title": "Clean the bike",
+      "description": "Wipe down the chain and apply fresh degreaser.",
+      "completed": true
+    }
+  ]
 }
