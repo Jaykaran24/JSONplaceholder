@@ -5,6 +5,12 @@
       "title": "Clean the bike",
       "description": "Wipe down the chain and apply fresh degreaser.",
       "completed": true
+    },
+    {
+      "id" : 2,
+      "title" : "Go to gym",
+      "description" : "Workout for two hours",
+      "completed" : false
     }
   ]
 }
