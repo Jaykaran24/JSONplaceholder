@@ -12,5 +12,14 @@
       "description" : "Workout for two hours",
       "completed" : false
     }
+  ],
+  "users" : [
+    {
+      "userid" : 1,
+      "username" : "jay"
+    },{
+      "userid" : 2,
+      "username" : "karan"
+    }
   ]
 }
